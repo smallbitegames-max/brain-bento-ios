@@ -1,0 +1,11 @@
+{
+  "appId": "com.playbentobrain.app",
+  "appName": "Brain Bento",
+  "webDir": "www",
+  "loggingBehavior": "none",
+  "ios": {
+    "contentInset": "never",
+    "allowsLinkPreview": false,
+    "scrollEnabled": true
+  }
+}
